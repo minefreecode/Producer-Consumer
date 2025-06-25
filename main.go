@@ -8,7 +8,7 @@ import (
 )
 
 func main() {
-	fmt.Println("=== Паттер producer-consumer ===")
+	fmt.Println("=== Паттерн producer-consumer ===")
 
 	bufferSize := 5
 	numProducers := 2
